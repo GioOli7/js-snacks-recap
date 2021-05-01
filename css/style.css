@@ -1,0 +1,6 @@
+.number {
+    cursor: pointer;
+}
+.nonActive {
+    color: red;
+};
